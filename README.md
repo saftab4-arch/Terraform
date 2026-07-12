@@ -1,4 +1,4 @@
-# Lab 1: My First Terraform + AWS Project (EC2, from Zero to Hero)
+# Lab 1: My First Terraform + AWS Project 
 
 A complete, beginner-friendly walkthrough of provisioning AWS
 infrastructure with Terraform - written so that literally anyone can
